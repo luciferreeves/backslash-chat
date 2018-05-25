@@ -1,0 +1,22 @@
+{
+  "name": "backslash-chat",
+  "productName": "BackSlash Live Chat",
+  "appCopyright": "BackSlash Linux Apps LLC.",
+  "appCategoryType": "Utilities",
+  "version": "1.0.0",
+  "description": "Connect to an Advisor and have Live Chat Support",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BackSlash Linux Apps LLC.",
+  "license": "Apache",
+  "devDependencies": {
+    "electron": "1.8.6",
+    "electron-installer-dmg": "^0.2.1",
+    "electron-packager": "^12.0.1",
+    "electron-reload": "^1.2.2"
+  }
+}
